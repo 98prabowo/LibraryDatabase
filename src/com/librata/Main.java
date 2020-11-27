@@ -6,6 +6,13 @@ import CRUD.Utility;
 import java.io.IOException;
 import java.util.Scanner;
 
+/**
+ * Library database: CRUD operation, non-GUI, non-00 version
+ * All variables/methods are declared as static
+ * in the non-00 version
+ * by pad89
+ */
+
 public class Main {
 
     public static void main(String[] args) throws IOException {

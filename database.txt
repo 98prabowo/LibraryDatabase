@@ -1,0 +1,13 @@
+fiersabesari_2012_1,2012,fiersa besari,media kita,jejak langkah
+PramoedyaAnantatoer_2001_1,2001,Pramoedya Anantatoer,Gramedia,Bumi Manusia
+purcell_2009_1,2009,purcell,wiley,calculus
+faqihza_2019_1,2019,faqihza,gramedia,belajar C++
+faqihza_2019_2,2019,faqihza,gramedia,belajar python
+faqihza_2019_3,2019,faqihza,gramedia,belajar Java
+ucup_2020_1,2020,Ucup Surucup,Kompas,Beternak Belut
+DimasPrabowo_2020_1,2020,Dimas Prabowo,Elex Media,Anti Mager
+Otong_2015_1,2015,Otong,Sunday Media,Surotong Adventure
+DioBrando_1998_1,1998,Dio Brando,Araki Media,Blood Mask
+fiersabesari_2012_2,2012,fiersa besari,media kita,arah langkah
+fiersabesari_2012_3,2012,fiersa besari,media kita,tapak jejak
+AkiraToriyama_1997_1,1997,Akira Toriyama,Elex Media,Dragon Ball
